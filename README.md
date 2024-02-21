@@ -46,7 +46,7 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Guadalupe99&theme=react&show_icons=true&include_all_commits=true" />
+
   <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Guadalupe99&theme=algolia" alt="candida18"  /></p>
 </p>
 
