@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola 👋, soy Guadalupe! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">Un apasionada desarrolladora de Front-End y Back-End (y una diseñadora principiante) de Argentina</h3>
+<h3 align="center">Una apasionada desarrolladora de Front-End y Back-End (y una diseñadora principiante) de Argentina</h3>
 
 
 - 👯 Estoy buscando colaborar en **proyectos de front-end y back-end**
